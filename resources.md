@@ -38,3 +38,5 @@ Once you run the include() command, everything in that file will be executed
 `pwd()`
 `cd("~/path/to/stuff")`
 
+## Julia for Data Science Book by Zacharias Voulgaris
+https://learning.oreilly.com/library/view/julia-for-data/9781634621328/
