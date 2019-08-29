@@ -38,7 +38,7 @@ function classify(distances, labels, k)
     indexes = Array{Int, 0}
     
     # Specify the largest possible number that this vector can have
-    M = typemax(distances[1])
+    M = typemax(Int64)
     
     class_count = Array{Int, number_of_classes}
     
